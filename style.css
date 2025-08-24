@@ -218,3 +218,8 @@ footer {
 .regular {
   color: white;
 }
+
+.active {
+  background-color:#FFEB77;
+  color: black;
+}
